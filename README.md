@@ -6,7 +6,7 @@ It can be navigated as follows:
 
 ## Parent directory ##
 
-- *requirements.txt* give the required packages. 
+- *requirements.txt* gives the required packages. 
 
 - In all notebooks, paths will need to be updated based on where data is and where you want models to be saved. 
 
