@@ -14,7 +14,7 @@ dask==2.6.0
 decorator==4.4.2
 defusedxml==0.6.0
 dill==0.3.1.1
-distributed==2.6.0
+distributed==2021.10.0
 entrypoints==0.3
 fsspec==0.7.2
 gast==0.2.2
